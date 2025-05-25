@@ -1,5 +1,6 @@
 package com.spring.SpringSecurity_03.SpringSecurity_03.controller;
 
+import com.spring.SpringSecurity_03.SpringSecurity_03.model.AuthRequest;
 import com.spring.SpringSecurity_03.SpringSecurity_03.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
